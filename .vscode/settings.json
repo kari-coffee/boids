@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "xstring": "cpp",
+        "string": "cpp",
+        "fstream": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "utility": "cpp"
+    },
+    "git.ignoreLimitWarning": true
+}
